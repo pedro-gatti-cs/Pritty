@@ -5,6 +5,18 @@ header{
     border: black 1px solid;
 }
 
+.a{
+    font-size: larger;
+    gap: 10%;
+    margin: auto;
+    display: flex;
+}
+
+.productos{
+    border: solid 1px black;
+    padding: 5%;
+}
+
 .sticky{
     position: sticky;
     top: 0;
